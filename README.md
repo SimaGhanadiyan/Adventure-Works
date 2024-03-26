@@ -1,21 +1,44 @@
-# Adventure Works README
+Below is the generated README file based on the provided information:
 
-Adventure Works is a large multinational company specializing in the manufacturing and distribution of various categories of products including bikes, bike components, accessories, and clothing. With a commercial presence across three continents and six countries, Adventure Works serves customers in North America (United States & Canada), Europe (France, Germany, and the United Kingdom), and Australia.
+---
+
+# Adventure Works Power BI Project
+
+## Description
+Adventure Works is a large multinational company that manufactures and distributes products in four categories: bikes, bike components, accessories, and clothing. The company operates in three continents and six countries, including North America (United States & Canada), Europe (France, Germany, and the United Kingdom), and Australia (Australia). Adventure Works sells its products through two main channels: online sales and wholesalers.
 
 ## Overview
+This Power BI project aims to analyze and visualize data related to Adventure Works using Power BI Desktop. It covers various aspects such as data transformation, building a relational data model, creating calculated columns and measures with DAX, and designing interactive dashboards to visualize the data effectively.
 
-Adventure Works operates in four main product categories:
+### Features Covered:
+- **Connect and Transform Data:**
+    - Utilize Power BI's query editor to connect and transform raw data.
+    - Explore data quality tools and key profiling metrics.
+    - Transform tables using text, numerical, and date/time tools.
+    - Practice combining, modifying, and refreshing queries.
 
-1. Bikes
-2. Bike Components
-3. Accessories
-4. Clothing
+- **Build a Relational Data Model:**
+    - Understand basic principles of data modeling, including normalization, fact & dimension tables, and common schemas.
+    - Create table relationships using primary and foreign keys.
+    - Configure report filters and trace filter context as it flows between related tables in the model.
+    - Explore data modeling options like hierarchies, data categories, and hidden fields.
 
-The company's distribution channels include:
+- **Create Calculated Columns and Measures with DAX:**
+    - Learn basic operators and common function categories (math, logical, text, date/time, filter, etc.).
+    - Explore nested functions and more complex topics like iterators and time intelligence patterns.
 
-- Online Sales
-- Wholesalers
+- **Design Interactive Dashboards:**
+    - Visualize data using tools and techniques for inserting, formatting, and filtering visuals in the Power BI Report view.
+    - Add interactivity using tools like bookmarks, slicer panels, parameters, tooltips, and report navigation.
+      
 
-This README provides essential information for understanding Adventure Works and its operations.
+## Dependencies
+- Power BI Desktop
+
+
+
+
+
+
 
 
