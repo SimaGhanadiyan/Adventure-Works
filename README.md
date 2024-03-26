@@ -34,6 +34,13 @@ This Power BI project aims to analyze and visualize data related to Adventure Wo
 
 ## Dependencies
 - Power BI Desktop
+![image](https://github.com/SimaGhanadiyan/Adventure-Works/assets/107240621/dd8d0a68-4403-43fb-812b-13f824dbe051)
+![image](https://github.com/SimaGhanadiyan/Adventure-Works/assets/107240621/73dc957f-93bf-4acd-b822-491b0c59faf9)
+![image](https://github.com/SimaGhanadiyan/Adventure-Works/assets/107240621/c7bf5f15-a184-4cec-817a-710fbd87fb3a)
+![image](https://github.com/SimaGhanadiyan/Adventure-Works/assets/107240621/c2731196-231c-47d0-88c5-84e3f3236a43)
+
+
+
 
 
 
