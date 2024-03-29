@@ -1,7 +1,3 @@
-Below is the generated README file based on the provided information:
-
----
-
 # Adventure Works Power BI Project
 
 ## Description
